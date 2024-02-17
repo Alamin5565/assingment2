@@ -1,0 +1,30 @@
+<style>
+        *{margin: 0;}
+        .blackone{background-color: rgb(44, 42, 42);position: relative;
+        width: 100%; margin: 0 auto; 
+    padding: 182px;}
+        .tittleh{color: rgb(255, 255, 255); font-size: 35px;
+        }
+        .midtitle{ color: rgb(255, 255, 255);
+        position: absolute; top: 280px;left: 800px;}
+        .midtitle2{color: rgba(247, 67, 2, 0.966); position: absolute;top: 250px; left: 800px;}   
+        .graph1{color: aliceblue;} 
+        .graph1{position: absolute; top: 350px; left: 800px;right: 300px;
+        display: block;max-width: 100%;}
+        .tittleh{text-align: justify;}
+        .one{width: 300px;}
+        .one{display: block; margin: 0;
+        position: absolute;
+    top: 50px;left: 450px; height: auto;}
+    
+    .div2{background-color: black;position: relative;
+        width: 100%; margin: 0 auto; 
+    padding: 182px;}
+    .div2h1{margin: 0;color: rgb(247, 67, 2, 0.966);text-decoration-line: underline;}
+    .div2{.div2p1{color: aliceblue;}}
+    .div2h2{color: rgb(247, 67, 2, 0.966);text-decoration-line: underline; position: absolute;left: 1000px;right: 200px;bottom: 450px;}
+    .div2{.div2p2{color: aliceblue;position: absolute; left: 1000px; bottom: 150px;}}
+    .two{width: 300px;}
+    .two{position: absolute;left: 20px; bottom: 100px;border: 2px;border-color: aliceblue;}
+
+</style>
